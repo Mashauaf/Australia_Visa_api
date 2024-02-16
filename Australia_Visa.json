@@ -1,0 +1,61 @@
+{
+  "id": 1,
+  "type": "Subclass 500 Student Visa",
+  "definition": "Pakistani students who want to pursue their degree in Australia have to apply for Subclass 500 student visa. With this visa, students can participate in any eligible course program and work part-time while maintaining their studies.",
+  "stay_duration": "3-5 years (depends on degree program)",
+  "cost": "AUD650",
+  "processing_time": "9 days-1 year",
+  "benefits": [
+    "Participation in a desired study program",
+    "Travel in and out of Australia",
+    "Can work part-time in Australia for 48 hrs/fortnight from 1st July 2023"
+  ],
+  "how_long_can_stay": "Students with this visa can stay up to 5 years in Australia (depending on the duration of the study program, this time may vary from 3-5 years)",
+  "include_family_member": [
+    "1) Partner",
+    "2) Your partner's dependent child who is unmarried and has not turned 18 years of age"
+  ],
+  "fees": "Pakistani applicant applying for Australian study visa has to pay 650 AUD that is equal to 1,23,000 PKR.",
+  "processing_time_info": "It may takes 9 days to 12 months for Visa of any higher education institute study program.",
+  "visa_labelling": "Visa will be attached to the student’s passport",
+  "eligibility_criteria": [
+    "1) Enrollment in a Course program",
+    "2) Medical Test (required for certain courses like medicine)",
+    "3) Must meet the English language requirements (IELTS 5.5, TOEFL 55, PTE 42)",
+    "4) Adequate health insurance (Overseas Student Health Cover - OSHC)",
+    "5) Must have enough money to stay in Australia and show a proof of parent’s annual income of at least AUD 62,222 in the last year before applying for visa",
+    "6) Genuine Student Requirement (GTE is not required)"
+  ],
+  "health_insurance_providers": [
+    "Australian Health Management",
+    "BUPA Australia",
+    "Medibank Private",
+    "Allianz Global Assistance",
+    "NIB OSHC"
+  ],
+  "financial_requirement": "Students must have enough money to stay in Australia for a certain time period. They must show a proof of parent’s annual income of at least AUD 62,222 in the last year before applying for the visa.",
+  "genuine_student_requirement": "GTE is not required for Australian study visa. The new Genuine Student (GS) requirement for student visa applications replaces the Genuine Temporary Entrant (GTE) requirement.",
+  "research_students": "If you are applying for a research degree program (postgraduate) then you must have a research plan or topic",
+  "application_process": [
+    "1) Apply for visa as early as you can, minimum 8 weeks before the start of a study program",
+    "2) Gather documents: documents enlisted above must be gathered. Check the list of required documents for Australian study visa online",
+    "3) Submit an online visa application with required documents (without documents your visa application may not be processed)"
+  ],
+  "interview_info": "Of course, in order to obtain an Australian student visa successfully, you must first complete the visa application process and must also go through a complete interview process.",
+  "interview_tips": [
+    "1) Don’t be late: Arrive a few minutes early.",
+    "2) Greeting is important: Show positivity and respect.",
+    "3) Dress appropriately: Dress professionally.",
+    "4) Take important documents: Have all necessary documents organized.",
+    "5) Be honest: Answer truthfully and accurately.",
+    "6) FAQ: Provide honest and concise answers to frequently asked questions."
+  ],
+  "faq": [
+    "1) How much money is required for Australian study visa? - Australian study visa application fee is AUD 650, and a student has to show a bank balance of AUD 62,222",
+    "2) Is it easy to get Australian study visa? - It all depends on the document’s provision. If you attach all the required documents with the visa application form, then it is easy to get Australian study visa.",
+    "3) How much can a student earn as a part-time worker in Australia? - Australian government pays 20 AUD per hour, and students are allowed to work 48 hrs/2 weeks.",
+    "4) Is IELTS required for an Australian study visa? - Yes, English language score is the basic requirement of an Australian study visa. Minimum 5.5 bands are required for an Australian study visa.",
+    "5) Can I study in Australia without IELTS? - Yes, students can submit alternatives to IELTS test scores like PTE or TOEFL if they are not interested in IELTS.",
+    "6) How can I get an Australian study visa from Pakistan? - For Australian study visa from Pakistan, students have to fulfill the basic requirements like GTE, English language test scores, health insurance, and university’s acceptance letter, etc."
+  ]
+}
